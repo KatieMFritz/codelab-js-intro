@@ -4,7 +4,7 @@ body {
   font-familY: Verdana, sans-serif;
 }
 
-button {
+button, #button {
   background-color: #2EB82E;
   font-size: 2em;
   font-weight: bold;
